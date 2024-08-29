@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed5ca776-36c4-449b-ab0b-49d4f40af1eb" name="Changes" comment="primeiro commit">
-      <change afterPath="$PROJECT_DIR$/src/aula21/exemploHeranca/Engenheiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula21/exemploHeranca/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula21/exemploHeranca/Motorista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula21/exemploHeranca/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula21/exemploHeranca/ativt1/Banco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula21/exemploHeranca/ativt1/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula21/exemploHeranca/ativt1/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula21/exemploHeranca/ativt1/ContaPoupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula22/Ex1.java" afterDir="false" />
+    <list default="true" id="ed5ca776-36c4-449b-ab0b-49d4f40af1eb" name="Changes" comment="Segundo commit">
+      <change afterPath="$PROJECT_DIR$/src/aula23/exemploArquivo/GravarPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula23/exemploArquivo/LerPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula23/exemploArquivo/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula23/exemploExcecao/Exemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula23/exemploExcecao/Exemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula23/exemploExcecao/Teste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,16 +37,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/mathe/OneDrive/Desktop/TI/aulaprogramacao/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Exemplo1.executor": "Run",
+    "Application.GravarPessoa.executor": "Run",
+    "Application.LerPessoa.executor": "Run",
+    "Application.Principal.executor": "Run",
+    "Application.Teste.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/mathe/OneDrive/Desktop/TI/aulaprogramacao/src/Main.java"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="Application.LerPessoa">
+    <configuration name="GravarPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula23.exemploArquivo.GravarPessoa" />
+      <module name="aulaprogramacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula23.exemploArquivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LerPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula23.exemploArquivo.LerPessoa" />
+      <module name="aulaprogramacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula23.exemploArquivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LerPessoa" />
+        <item itemvalue="Application.GravarPessoa" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,11 +109,20 @@
       <option name="project" value="LOCAL" />
       <updated>1719574443054</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Segundo commit">
+      <option name="closed" value="true" />
+      <created>1720784648115</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720784648115</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primeiro commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="primeiro commit" />
+    <MESSAGE value="Segundo commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segundo commit" />
   </component>
 </project>
