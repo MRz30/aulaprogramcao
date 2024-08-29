@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed5ca776-36c4-449b-ab0b-49d4f40af1eb" name="Changes" comment="Segundo commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula21/exemploHeranca/Engenheiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula21/exemploHeranca/Engenheiro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula21/exemploHeranca/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula21/exemploHeranca/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula21/exemploHeranca/Motorista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula21/exemploHeranca/Motorista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula21/exemploHeranca/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula21/exemploHeranca/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula21/exemploHeranca/ativt1/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula21/exemploHeranca/ativt1/Banco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula21/exemploHeranca/ativt1/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula21/exemploHeranca/ativt1/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula21/exemploHeranca/ativt1/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula21/exemploHeranca/ativt1/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula21/exemploHeranca/ativt1/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula21/exemploHeranca/ativt1/ContaPoupanca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula22/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula22/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula23/exemploArquivo/GravarPessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula23/exemploArquivo/LerPessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula23/exemploArquivo/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula23/exemploExcecao/Exemplo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula23/exemploExcecao/Exemplo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula23/exemploExcecao/Teste.java" beforeDir="false" />
-    </list>
+    <list default="true" id="ed5ca776-36c4-449b-ab0b-49d4f40af1eb" name="Changes" comment="atualizando da aula 19 que estava em outro repositorio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,12 +162,21 @@
       <option name="project" value="LOCAL" />
       <updated>1724899910037</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="atualizando da aula 19 que estava em outro repositorio">
+      <option name="closed" value="true" />
+      <created>1724901793731</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724901793731</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primeiro commit" />
     <MESSAGE value="Segundo commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Segundo commit" />
+    <MESSAGE value="atualizando da aula 19 que estava em outro repositorio" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizando da aula 19 que estava em outro repositorio" />
   </component>
 </project>
