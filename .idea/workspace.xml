@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed5ca776-36c4-449b-ab0b-49d4f40af1eb" name="Changes" comment="atualizando da aula 19 que estava em outro repositorio" />
+    <list default="true" id="ed5ca776-36c4-449b-ab0b-49d4f40af1eb" name="Changes" comment="atualizando da aula 19 que estava em outro repositorio">
+      <change afterPath="$PROJECT_DIR$/src/aula31/exemploAbstrato/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula31/exemploAbstrato/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula31/exemploAbstrato/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula31/exemploAbstrato/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula31/exemploInterface/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula31/exemploInterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula31/exemploInterface/Vetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula32/ExemploArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula32/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula32/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula19/exemplo2/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula19/exemplo2/Teste.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -24,7 +42,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2iVSXwhwOhAdBS7rVNhz7FZDtkq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,12 +53,18 @@
   "keyToString": {
     "Application.Banco.executor": "Run",
     "Application.Exemplo1.executor": "Run",
+    "Application.ExemploArrayList.executor": "Run",
     "Application.GravarPessoa.executor": "Run",
     "Application.LerPessoa.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Principal.executor": "Run",
     "Application.Teste.executor": "Run",
     "Application.aula19.exemplo1.Principal.executor": "Run",
+    "Application.aula19.exemplo2.Teste.executor": "Run",
     "Application.aula20.exemploAcesso.Principal.executor": "Run",
+    "Application.aula21.exemploHeranca.ativt1.Banco.executor": "Run",
+    "Application.aula31.exemploAbstrato.Principal.executor": "Run",
+    "Application.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -46,13 +72,13 @@
     "onboarding.tips.debug.path": "C:/Users/mathe/OneDrive/Desktop/TI/aulaprogramacao/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.aula19.exemplo1.Principal">
-    <configuration name="Banco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula21.exBanco.Banco" />
+  <component name="RunManager" selected="Application.ExemploArrayList">
+    <configuration name="ExemploArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula32.ExemploArrayList" />
       <module name="aulaprogramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula21.exBanco.*" />
+          <option name="PATTERN" value="aula32.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula21.exemploHeranca.Principal" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula31.exemploInterface.Main" />
       <module name="aulaprogramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula21.exemploHeranca.*" />
+          <option name="PATTERN" value="aula31.exemploInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula22.exemploFinal.Teste" />
+    <configuration name="aula19.exemplo2.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula19.exemplo2.Teste" />
       <module name="aulaprogramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula22.exemploFinal.*" />
+          <option name="PATTERN" value="aula19.exemplo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula19.exemplo1.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula19.exemplo1.Principal" />
+    <configuration name="aula21.exemploHeranca.ativt1.Banco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula21.exemploHeranca.ativt1.Banco" />
       <module name="aulaprogramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula19.exemplo1.*" />
+          <option name="PATTERN" value="aula21.exemploHeranca.ativt1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aula20.exemploAcesso.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula20.exemploAcesso.Principal" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula32.main" />
       <module name="aulaprogramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula20.exemploAcesso.*" />
+          <option name="PATTERN" value="aula32.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.aula19.exemplo1.Principal" />
-        <item itemvalue="Application.aula20.exemploAcesso.Principal" />
-        <item itemvalue="Application.Principal" />
-        <item itemvalue="Application.Banco" />
-        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.ExemploArrayList" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.aula21.exemploHeranca.ativt1.Banco" />
+        <item itemvalue="Application.aula19.exemplo2.Teste" />
       </list>
     </recent_temporary>
   </component>

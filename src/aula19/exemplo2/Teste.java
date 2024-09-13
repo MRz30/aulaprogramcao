@@ -16,8 +16,10 @@ public class Teste {
         a1.eMail = ler.next();
         a1.codigo = new Random().nextInt(1000,10000);
         System.out.println("Aluno "+a1.nome+" cadastrado com o código "+a1.codigo);
-        System.out.println("Qual a primeira nota do"+a1.nome+": ");
+        System.out.println("Qual a primeira nota do "+a1.nome+": ");
         a1.n1 = ler.nextFloat();
+        System.out.println("Qual a segunda nota do "+a1.nome+": ");
+        a1.n2 = ler.nextFloat();
         System.out.println("O aluno "+a1.nome+" tem média "+a1.calculaMedia());
         System.out.println(" e está "+a1.obterStatus());
 
