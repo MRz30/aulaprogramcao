@@ -8,6 +8,11 @@ public class Lista<T> {
         elementos = (T[])new Object[capacidade];
         tamanho = 0;
     }
+    public Lista(){
+        elementos = (T[])new Object[10];
+        tamanho = 0;
+    }
+
 
     public void adiciona(T elemento){
         aumentaCapacidade();
